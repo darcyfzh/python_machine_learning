@@ -1,0 +1,6 @@
+A compressed archive of the movie review dataset (84.1 MB) can be downloaded from http://ai.stanford.edu/~amaas/data/sentiment/ as a gzip-compressed tarball archive:
+•
+If you are working with Linux or Mac OS X, you can open a new terminal window, use cd to go into the download directory, and execute tar -zxf aclImdb_v1.tar.gz to decompress the dataset
+•
+If you are working with Windows, you can download a free archiver
+such as 7-Zip (http://www.7-zip.org) to extract the files from the download archive
